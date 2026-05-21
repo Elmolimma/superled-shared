@@ -1,0 +1,406 @@
+{
+  "version": "1.0",
+  "description": "SuperLED asiakaspalvelu Q&A esimerkit per kategoria",
+  "examples": {
+    "tuote_info": [
+      {
+        "subject": "Re: Led-nauhatarjous",
+        "customer": "Hei, Tarjous on hyvä. Muutetaan vielä KOKOA alasvalojen värilämpötila 4000K. Sitten saa laittaa tilauksen tulemaan tällä sisällöllä. Yhteystietoni: Pasi Immonen Lahtelantie 6B 88610 Vuokatti pasi.t.immonen@gmail.com 0443067545 Ystävällisin terveisin Pasi ti 19.5.2026 klo 10.53 SuperLED.fi asiakaspalvelu ( asiakaspalvelu@superled.fi ) kirjoitti: Hei, Oheisesta liitteestä löydät tarjouksemme. Miltä ",
+        "reply": "Hei, Kiitos yhteydenotostasi! Oheisesta liitteestä löydät tarjouksemme. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "Re: Valaisintarjous 1-vaihekiskolla",
+        "customer": "Hei, Tämä sopii 😊 Ulla Savola Töllintie 26 a1 90230 Oulu P. 050-9104340 ullamarkettasavola@gmail.com ma 11.5.2026 klo 16.01 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Äskeiseen puheluumme viitaten, tässä vielä valaisintarjous hyväksyttäväksi. BEST-kiskovalaisimet saadaan parin viikon päästä ja voidaan toimittaa jälkitoimituksena. Muutoin nämä kaikki tuotteet löytyvät varastosta ja on valmiita paka",
+        "reply": "Hei, Äskeiseen puheluumme viitaten, tässä vielä valaisintarjous hyväksyttäväksi. BEST-kiskovalaisimet saadaan parin viikon päästä ja voidaan toimittaa jälkitoimituksena. Muutoin nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Ja voidaan laittaa tavarat sinulle noutokaappiin huomisen aikana. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-11"
+      },
+      {
+        "subject": "Re: Tarjouksen tilanne",
+        "customer": "Hei, Soittelinkin tänään kiskovaloihin liittyen. Meille tulee tuonne remppakohteeseen Bleidin systeemi, joten ei valitettavasti onnistu sitten ottaa noita kiskovaloja säädettävällä värilämpötilalla, ettei tarvitse kahta erillistä järjestelmää. Eli mennään siis ihan vain valkoisilla 1-vaihevirtakiskolla ja niihin nuo valkoiset Bobo 1 -valaisimet. Kiskoja tulee 3 kpl, joista yksi kahden metrin mitta",
+        "reply": "Hei, Halusin tiedustella, oletteko ehtineet perehtyä tarjoukseen yhdessä ja onko kokonaisuusen valaistuksen osalta selvinnyt? Autan mielelläni, jos jokin kohta kaipaa tarkennusta tai herää lisäkysymyksiä. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-06"
+      },
+      {
+        "subject": "Re: Päivitetty tarjous",
+        "customer": "Tere, Langaton nappi vois olla hyvä. Värilämpö vois olla 4000k ja muuten esityksesi mukaan. -Miikka Lähetetty iPhonesta SuperLED.fi asiakaspalvelu kirjoitti 4.5.2026 kello 14.15: ﻿ Hei, Ylempään keittiötoimittajalta tulevaan profiiliin minusta riittää tunnelmatehoinen led-nauha. Kaappien alle/välitilaan suosittelen tehokkaampaa nauhaa ja himmennystä. Tätä samaa nauhaa myös khh välitilaan. Katsotaa",
+        "reply": "Hei, Liitteenä päivitetty tarjous. Saarekkeen päälle tulevien valaisimien johtojen vaihto pitäisi kyllä onnistua. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-05-04"
+      },
+      {
+        "subject": "VS: Taivutustyökalu",
+        "customer": "Huomenta. Tuote KKT30155, XTSV12 sopii XTS4 Pro ja XTSC6 Pulse kiskoon. Hinta on 3,96 €/ kpl Liitteessä myös käyttö ohje. https://nordicaluminium.fi/wp-content/uploads/2022/06/NA_catalogue_2022_32p.pdf With best regards Order handling team Email: orders@nordicaluminium.fi INFO: Summer closure 6 th July - 2nd August 2026 Dear Customer, To speed up handling of inquiries and different issues - we kin",
+        "reply": "Hei, Saanko hinnan kiskon kuparipäiden taivutustyökalusta XTSV12. Mille kiskoille yhteensopiva? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-04-29"
+      },
+      {
+        "subject": "VS: Päivitetty valaisintarjous",
+        "customer": "Moi, Kiitos tarjouksesta. Ohessa päivitetty listaus: Suihkuun kaksi 5m LED nauhaa (neljälle seinälle) molempiin erilliset muuntajat ja lähettimet. Ovessa kaksiosainen säädin (on/off ja kirkkaus) Toisella säädetään suihkun led nauhoja ja toisella saunan led nauhoja Ymmärinsinkö oikein, että yhden napin taakse voi laittaa kaksi ryhmää? Eli suihkun led nauhat? Erillisellä kaukosäätimellä suihkun led ",
+        "reply": "Hei, Äskeiseen puheluumme viitaten, päivittelin pesuhuoneen led-nauhan CCT-nauhaksi. CCT-nauhalle ja saunan nauhoille oma katkaisija/säädin. Liitteenä myös muutama leikkauskuva led-nauhan asennuksesta seinänviereen. Miltä tämä kokonaisuus vaikutta? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-04-27"
+      },
+      {
+        "subject": "Re: Maksulinkki tilaukselle",
+        "customer": "Moikka Sopii kyllä. -Jarmo ma 27.4.2026 klo 11.41 SuperLED.fi asiakaspalvelu ( asiakaspalvelu@superled.fi ) kirjoitti: Moi, Kiitos palautteesta! Kuvaamasi perusteella vaikuttaa siltä, että liitin ei saa kunnollista kontaktia nauhaan. Meille on tullut liittimestä uusi malli. Sopiiko, että lähetämme nämä teille veloituksetta tilauksen mukaisesti: 2 kpl (3 m johdolla) 3 kpl (15 cm johdolla) 6 kpl pel",
+        "reply": "Hei, Kiitos tilauksesta! Laitoin tilausvahvistuksen erillisellä viestillä. Voit maksaa tilauksen tämän kertakäyttöisen maksulinkin kautta: https://www.superled.fi/checkout/payments/033c6649-7dd2-4f49-a306-b2ee4b352b98/pay Kun maksu ennen klo 12, niin lähtee samana päivänä toimitukseen. Ystävällisin terveisin Pauliina 045-352 3705 www.superled.fi",
+        "date": "2026-04-27"
+      },
+      {
+        "subject": "Re: Liikasuoritus ja tilinumero",
+        "customer": "Tässäpäs tilinumero FI56 3939 0018 7924 81 Terveisin, Kaitsu SuperLED.fi asiakaspalvelu kirjoitti 8.4.2026 kello 8.44: ﻿ Hei Kai, Laitatko vielä tilinumeron niin saamme palautettua eilisen liikasuorituksen 6,90€. Vaihtoehtoisesti voin tehdä samansuuruisen alekoodin verkkokauppaamme. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! http",
+        "reply": "Hei Kai, Laitatko vielä tilinumeron niin saamme palautettua eilisen liikasuorituksen 6,90€. Vaihtoehtoisesti voin tehdä samansuuruisen alekoodin verkkokauppaamme. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-04-11"
+      }
+    ],
+    "takuu": [
+      {
+        "subject": "Tähtimötie räpsyy",
+        "customer": "Moi, Laitatteko 2 kpl takuuna menemään puutarhatielle asap -- Ystävällisin terveisin, Juho Karhumaa Yksikönpäällikkö Uusimaa puh. +358400325962 juho.karhumaa@betasahko.fi Betasähkö Oy Puutarhatie 26 B3 01300 Vantaa www.betasahko.fi",
+        "reply": "Hei, Laitetaan matkaan! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet Lähettäjä: Juho Karhumaa Lähetetty: maanantai 18. toukokuuta 2026 10.40 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Tähtimötie räpsyy Moi, Laitatteko 2 kpl takuuna menemään puutarhatielle asap -- Ystävällisin terveisin, Juho Karhumaa Yksikönpäällikkö Uusimaa puh. +358400325962 juho.karhumaa@betasahko.fi Betasähkö Oy Puutarhatie 26 B3 01300 Vantaa www.betasahko.fi",
+        "date": "2026-05-18"
+      },
+      {
+        "subject": "Re: Reklamaatio",
+        "customer": "Moi, Hävettää laittaa taas reklamaatiota mut taas on pimeänä 1kpl. Takuuta ilmeisesti 11/2026 saakka. -Tero Kopola pe 12.12.2025 klo 18.18 Tero Kopola kirjoitti: Minä kiitän pe 12.12.2025 klo 9.01 Jonne Kela | SuperLED.fi kirjoitti: Hei, Kiitos kuvasta. Kuvasta erottaa kyllä hyvin, kuinka huone on aivan pimeä. On kyllä harmittavan heikosti kestänyt nämä. Lähetämme tänään takuuseen uudet 3kpl. Ystä",
+        "reply": "Hei, Kiitokset palautteesta. Olisko mahdollista saada kuvaa valaisimesta, jossa polttimo on? Onko käytössä himmennintä? Onko ryhmässä muita polttimoita? Terveisin Ilkka 045-352 3705 www.superled.fi Lähettäjä: Tero Kopola Lähetetty: sunnuntai 2. maaliskuuta 2025 16.31 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Reklamaatio Hei Tilaus (#127746) LED-E27 Airam PRO, 10.5W, 1060lm, ⌀ 60×110mm, 200° Lämmin valkoinen 3000K Toimituspäivä: 15.11.2024 Meni pimeäksi tänään 2.3.2025. Tai palaa silleen ihan himmeästi. Laitatteko korvaavan tuotteen takuuseen? -Tero Kopola",
+        "date": "2026-04-25"
+      },
+      {
+        "subject": "Re: Dali muuntaja",
+        "customer": "Moi, Tämä tehtii kimpassa Seinäjoen Sähköasennus Oy:n kanssa. Eli muuntajat tullu heidän kautta. Tässä siitä liite. Petri Yli-Sähkö Oy 0505129433 SuperLED.fi asiakaspalvelu kirjoitti 31.3.2026 kello 9.16: ﻿ Moi, Kiitos videosta! Välitän tuon eteenpäin. Muistatko onko tilaus tehty teidän nimellä vai mahdollisesti jonkun toisen nimellä? En valitettavasti löydä tilausta näillä tiedoilla, ja takuun kä",
+        "reply": "Hei, Dali muuntajan osalta olimme yhteydessä valmistajaan ja saimme sellaista tietoa, että NFC ei ole muuntajassa päällä, mikäli sovellusta ei käytetä ja nyt itse testasin muuntajan yhdistämistä sovellukseen niin tämän kantavuus on todellakin olematon eli NFC.stä tämän ei pitäisi johtua Joka tapauksessa tehtaalta kysyivät mikäli olisi mahdollista saada tästä tilanteesta vielä videota. Ystävällisin terveisin Jonne 045 352 3705 www.superled.fi",
+        "date": "2026-04-13"
+      },
+      {
+        "subject": "Fwd: Maksulinkki tilaukselle",
+        "customer": "Moikka Tilattu lednauha on pikku hiljaa asennettu, mutta sen verran täytyy reklamoida, että osa nauhan ledeistä ei pala yhtä kirkkaasti, kuin muu nauha. Tuo ei kai ole tarkoitus? Liitteenä kuva asennetusta nauhasta. Minulle voi myös soittaa numeroon 0500-608 931 Terveisin Jarmo Markelin ---------- Forwarded message --------- Lähettäjä: Jarmo Markelin Date: ke 1.10.2025 klo 14.51 Subject: Reklamaat",
+        "reply": "Hei, Kiitos tilauksesta! Laitoin tilausvahvistuksen erillisellä viestillä. Voit maksaa tilauksen tämän kertakäyttöisen maksulinkin kautta: https://www.superled.fi/checkout/payments/033c6649-7dd2-4f49-a306-b2ee4b352b98/pay Kun maksu ennen klo 12, niin lähtee samana päivänä toimitukseen. Ystävällisin terveisin Pauliina 045-352 3705 www.superled.fi",
+        "date": "2026-02-18"
+      },
+      {
+        "subject": "Re: Reklamaatio",
+        "customer": "Kuulostaa hyvälle. Laitatteko samaan osoitteeseen, eli kiviharju 3, espoo. Kiitos. Ystävällisin terveisin Juha Somppi Talotekniikan Mestarit Oy ti 10.2.2026 klo 9.42 Jonne Kela | SuperLED.fi kirjoitti: Hei, pahoittelut viivästyneestä vastauksesta! Koska muuntajat ovat samaa versiota, niin otamme tämän tuotteen vielä tarkempaan testaukseen. Jotta saisimme teille toimivan ratkaisun mahdollisimman no",
+        "reply": "Hei, Onpa ikävä kuulla! Laitetaan uusi tulemaan. Laitetaanko Kiviharju 3 osoitteeseen? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Lähettäjä: Juha Somppi Lähetetty: torstai 29. tammikuuta 2026 6.45 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Reklamaatio Heippa. Liitteenä olevalta tilauksesta yksi seuraava valo ei toimi: Seinävalaisin MODIFI 10W, ylösalas, 900lm, 120x97x100mm, musta. Miten toimitaan? Ystävällisin terveisin Juha Somppi Talotekniikan Mestarit Oy",
+        "date": "2026-02-10"
+      },
+      {
+        "subject": "VS: TUPLA-profiilin kannakkeet",
+        "customer": "Hei, Se sopii, kiitos. Merkki: 012 Kettunen takuu Ystävällisin terveisin, Pasi Vihavainen Suunnittelu 0449715067 pasi.vihavainen@sahkoasennuskuronen.fi Hietalantie 5, 80710 Lehmo www.sahkoasennuskuronen.fi Lähettäjä: SuperLED.fi asiakaspalvelu Lähetetty: keskiviikko 28. tammikuuta 2026 11.28 Vastaanottaja: Pasi Vihavainen Aihe: VS: TUPLA-profiilin kannakkeet Hei, Löysinkin sen tilauksen. Nykyinen ",
+        "reply": "Hei, Ei ole valitettavasti erillisenä tuotteena myynnissä. Voin selvitellä onko tilattavissa. Oliko kyseessä meiltä tilattu profiili? Meidän TUPLA-profiileissa on metalliset kannakkeet, eikä pitäisi murentua. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Nimesi Pasi Vihavainen Puhelinnumero 0449715067 Sähköposti pasi.vihavainen@sahkoasennuskuronen.fi Viesti Saako teidän TUPLA-ledprofiiliin kiinnikkeitä erikseen? Tarve olisi 25kpl, kun vanhat murenevat ja profiili tippuu seinältä",
+        "date": "2026-01-28"
+      },
+      {
+        "subject": "Takuuvaihto 002779",
+        "customer": "Terve, Asiakkaalla alkanut vilkkumaan 47213 hopea valaisin. Laitatteko takuuseen noutoon uuden. Liitteenä ostolasku ja video. Ystävällisin terveisin Työpäällikkö Arttu Pennanen Betasähkö Oy Kiertorata 2 90440 Kempele +358403568700 arttu.pennanen@betasahko.fi",
+        "reply": "Hei, Laitetaan! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Lähettäjä: arttu.pennanen@betasahko.fi Lähetetty: keskiviikko 5. marraskuuta 2025 12.37 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Takuuvaihto 002779 Terve, Asiakkaalla alkanut vilkkumaan 47213 hopea valaisin. Laitatteko takuuseen noutoon uuden. Liitteenä ostolasku ja video. Ystävällisin terveisin Työpäällikkö Arttu Pennanen Betasähkö Oy Kiertorata 2 90440 Kempele +358403568700 arttu.pennanen@betasahko.fi",
+        "date": "2025-11-05"
+      },
+      {
+        "subject": "RE: VS: Tarjous SuperLED.fi",
+        "customer": "Hei, Saanko hinnat kaikille vaihtoehdoille. Lasketaanko jatkotakuu normaalin takuuajan lisäksi esim. 2+3=5 jolloin ostan 3v. lisää aikaa?. -Vesa- Lähetetty laitteesta Galaxy -------- Alkuperäinen viesti -------- Lähettäjä: \"SuperLED.fi asiakaspalvelu\" Päivämäärä: 20.10.2025 14.19 (GMT+02:00) Saaja: \"vesa.kiili\" Aihe: VS: Tarjous SuperLED.fi Hei, Onnistuu katsoa sillekin, ymmärsin , että halusit pi",
+        "reply": "Hei, Oheisesta liitteestä löydät tarjouksemme! AAMU-valaisimille laskettu 4-vuoden pidennetty takuu. Miltä vaikuttaa? Voit tehdä tilauksen vastaamalla tähän viestiin yhteystiedoillasi. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2025-10-20"
+      }
+    ],
+    "tilaus": [
+      {
+        "subject": "Re: Päivitetty valaisintarjous saunarakennukseen",
+        "customer": "Kiitos paljon. Katsotaan josko juhannuksena ekat löylyt saisimme. T Petri ti 19.5.2026 klo 15.32 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Mahtavaa! Laitetaan paketti matkaan. Laitoin tilausvahvistuksen erillisellä viestillä ja saat sähköpostilaskun muutaman päivän kuluttua. Aurinkoista kesää ja onnistumisia saunaprojektiin! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileih",
+        "reply": "Hei, Oheisesta liitteestä löydät päivitetyn tarjouksemme. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "Re: Led-nauhatarjous",
+        "customer": "Hei, Osoitteet samat. Laita sähköpostilasku tulemaan. Ystävällisin terveisin Pasi ti 19. toukok. 2026 klo 13.44 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Mahtavaa, laitetaan paketti matkaan! Haluatko maksulinkin vai sähköpostilaskun? Onko koti- ja toimitusosoite sama? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.sup",
+        "reply": "Hei, Kiitos yhteydenotostasi! Oheisesta liitteestä löydät tarjouksemme. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "[ROPO] SD-2914751: Laskut 0€ pääomalla",
+        "customer": "Hei, kiitos viestistäsi. Valitettavasti meidän puolelta ei ole mahdollisuutta estää laskujen lähetystä summan perusteella. Tarvittaessa, pyydämme ystävällisesti tarkistamaan olisiko Mycashflown puolella mahdollista asettaa vastaaville laskuaineistoille lähetystavaksi print, jolloin lasku saapuisi meille, mutta lähetystapana olisi tulosta itse eli meiltä lähetystä ei tehtäisi tai olisiko sieltä puo",
+        "reply": "Hei, Pystyttekö estämään 0€ suuruisten laskujen lähettämisen? Meillä verkkokauppa päivittää laskun summan automaattisesti, jos tilaukselle tehdään muutoksia. Jos maksutapaa ei poista erikseen kokonaan, lasku lähtee asiakkaalle näköjään, vaikka summa olisi 0€, esimerkiksi lasku viitteellä 1610435654621812977. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "RE: VL: Hinnasto",
+        "customer": "Hei, Kiitos ja palaamme asiaan mahdollismman pian. Ystävällisin Terveisin ja mukavaa päivänjatkoa! Jari Support Specialist PayPal Point of Sale (formerly Zettle by PayPal) --------------- Original Message --------------- From: Ilkka Limma | SuperLED.fi [ilkka.limma@superled.fi] Sent: 2026-05-12 14:31 To: support.fi@zettle.com Cc: asiakaspalvelu@superled.fi Subject: VL: Hinnasto Hei, Tässä viesti p",
+        "reply": "Hei, Meillä ollut käytössä teidän maksupäätepalvelut myymälässämme. Olen vertaillut kokonaisuutta myös vaihtoehtoiseen kassaratkaisuun, jossa hinnat ovat tällä hetkellä meille edullisemmat. Vastatarjouksemme on seuraava: Käyttö ilman kuukausimaksua ja provisio 1,45 % tai Kuukausimaksu 19€/kk + 0,79 % Pystyttekö tarkistamaan hintojanne tämän pohjalta ja kommentoimaan, miltä osin hinnoittelua olisi mahdollista lähestyä? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-05-12"
+      },
+      {
+        "subject": "[Onninen] Re: TILAUSNUMERO 377170175 noutoon huomenna 13.5.",
+        "customer": "Juho (Onninen) 12. toukok. 2026 klo 14.23 UTC+3 Moi, Tilaus 377170175 nostettu keräilyyn ja huomiseksi Kempeleelle. Ystävällisin terveisin, Juho Asiakaspalvelu SuperLED.fi asiakaspalvelu 12. toukok. 2026 klo 13.37 UTC+3 Hei, Laitatteko TILAUSNUMERO 377170175 myös noutoon huomiseksi Kempeleeseen, kiitos. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Yhteydenottoa “TILAUSNUMERO 377170175",
+        "reply": "Hei, Laitatteko TILAUSNUMERO 377170175 myös noutoon huomiseksi Kempeleeseen, kiitos. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-05-12"
+      },
+      {
+        "subject": "Re: Puhelinnumero toimitusta varten",
+        "customer": "0400 918161 ti 12.5.2026 klo 11.19 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Saanko vielä puhelinnumeron tilaukselle? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "reply": "Hei, Saanko vielä puhelinnumeron tilaukselle? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-12"
+      },
+      {
+        "subject": "Re: 12 kpl Alasvalo OODI-3 7W",
+        "customer": "Maksulinkki kiitos! Jonne pe 8.5.2026 klo 13.05 SuperLED.fi asiakaspalvelu kirjoitti: Juu on himmennettävä! Kiitos tilauksesta, saat siitä vielä erillisen vahvistusviestin. Haluatko tilauksesta maksulinkin vai sähköpostilaskun? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peiliva",
+        "reply": "Hei, Pakettihinta 12kpl OODI-3 7W 375€ sis toimituskulun! Laitetaanko matkaan? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet Lähettäjä: Jonne Lähetetty: perjantai 8. toukokuuta 2026 12.22 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: 12 kpl Alasvalo OODI-3 7W Hei pyytäisin tarjousta: 12 kpl Alasvalo OODI-3 7W, Ø85x39mm, valkoinen Terveisin Jonne Lantto 0504697914 Väliniitty 6 02250 Espoo",
+        "date": "2026-05-08"
+      },
+      {
+        "subject": "Re: Led-nauhaa keittiöön",
+        "customer": "Moi Kyllä langaton ohjaus,saako valon värisävyä vaihdettua näillä tarpeilla ehdota myös sellaista. Y.T: Jyrki Alakalhunmaa to 7.5.2026 klo 14.03 SuperLED.fi asiakaspalvelu kirjoitti: Hei, lähetimme ehdotuksen valaisimistamme aikaisemmin, oletko kerennyt käymään läpi sitä? Jos tarvitset lisätietoja tai haluat tehdä muutoksia tarjoukseen, älä epäröi ottaa yhteyttä. Katsotaanko kokonaispaketti myös l",
+        "reply": "Hei, lähetimme ehdotuksen valaisimistamme aikaisemmin, oletko kerennyt käymään läpi sitä? Jos tarvitset lisätietoja tai haluat tehdä muutoksia tarjoukseen, älä epäröi ottaa yhteyttä. Katsotaanko kokonaispaketti myös langattomalla ohjauksella? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-08"
+      }
+    ],
+    "palautus": [
+      {
+        "subject": "Re: Myymälän valaistus",
+        "customer": "Moikka, Mahtavaa kiitos paljon ☺️ Lähetetty iPhonesta SuperLED.fi asiakaspalvelu kirjoitti 18.5.2026 kello 15.33: ﻿ Hei, Tämä palautus saapui perille, kiitos! Alkuperäinen lasku on nyt hyvitetty ja laitettu uusi lasku oikeilla määrillä. Aurinkoista alkanutta viikkoa! Ystävällisin terveisin Reetta 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superle",
+        "reply": "Hei, Joko valaisimet asennettu myymälään? Saitteko niillä riittävästi kaivattua lisävaloa? 🙂 Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-18"
+      },
+      {
+        "subject": "Re: [Sähkö- ja LVI-Palvelu Kipinä] 75309 Yhteydenottopyyntösi - Palautus",
+        "customer": "Hei SuperLED, Kiitos. Tähän voi tehdä palautuksen: Nordea FI29 1369 3000 1297 98 NDEAFIHH Kiitos! Kipinöivin terveisin, Asiakaspalvelu Sähköpalvelu Kipinä p. 010 322 1250 info@spkipina.com www.spkipina.com Seuraa meitä somessa LinkedIn | Instagram | Facebook Pe, 8 Touko klo 2:16 PM , SuperLED. fi kirjoitti: Hei, Palautus on saapunut ja se on käsitelty (5kpl kiskovalaisimia). Haluatteko hyvityslask",
+        "reply": "Hei, Palautus on saapunut ja se on käsitelty (5kpl kiskovalaisimia). Haluatteko hyvityslaskun verkkolaskuna ja kohdistaa sen seuraaville laskuille vai palautetaanko summa tilillenne? Tässä tapauksessa tarvitsemme tilitiedot. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-11"
+      },
+      {
+        "subject": "Re: Palautus ja tilinumero",
+        "customer": "Hei Ok, kiitos. IBAN-tilinumero FI21 4309 0010 2551 80 -- Terveisin, Tapio Kosonen Sähköhuolto Kosonen Oy Inkeriäistentie 163, 21555 Taatila Puh: 050 9181090 www.sahkohuoltokosonen.fi SuperLED.fi asiakaspalvelu kirjoitti 29.4.2026 klo 10.56: Hei, Maavalojen jatkojohtoja on tullut palautuksena. Laitatko tilitiedot, niin hyvitetään 26,30 €. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi V",
+        "reply": "Hei, Maavalojen jatkojohtoja on tullut palautuksena. Laitatko tilitiedot, niin hyvitetään 26,30 €. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-04-29"
+      },
+      {
+        "subject": "Re: Palautusohje ja linkki 2700K led-nauhaan",
+        "customer": "Hei Asennus tehty niin kuin pitää, alusta on tukevasti keskellä laattaa, kaikki osat oikein päin nuoli ylöspäin. Miten tämän kanssa pitäisi toimia? Samalla voisit kertoa miten saan uudet liittimet väärien tilalle, josta kerroin saateliitteessä. YT Kaj Ohrling ti 28.4.2026 klo 13.40 SuperLED.fi asiakaspalvelu ( asiakaspalvelu@superled.fi ) kirjoitti: Hei, Kiitos viestistäsi. Korjataan tieto palautu",
+        "reply": "Hei, Äskeiseen puheluumme viitaten, tässä linkki palautusohjeeseen: https://www.superled.fi/page/150/palautusilmoitus Ja tässä led-nauhaan, josta löytyy 2700K värilämpötila: https://www.superled.fi/product/3335/cob-luxor-led-nauha-5m-10wm-24v-eg-ip65 Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-04-29"
+      },
+      {
+        "subject": "VS: Lapelland lasku 12543",
+        "customer": "Hei! Kiitos viestistä. Meillä ei näytä olevan ollenkaan tällaista laskua eikä myöskään tätä mainitsemaasi hyvityslaskua. Voitko laittaa näistä molemmista laskuista minulle kopiot, jotta voin tutkia asiaa. Olisiko laskujen pitänyt tulla verkkolaskuna vai jotenkin muuten? Rakentavin terveisin, Virpi Österberg Henkilöstö- ja talouspäällikkö +358 40 761 0082 Lähettäjä: SuperLED.fi asiakaspalvelu Lähet",
+        "reply": "Hei, Lapellandin lasku 12543 näyttää olevan vielä avoinna. Laskulle kohdistettu hyvityslasku 12619, 1 950,48 €. Avoin summa 1764,32 €. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-04-27"
+      },
+      {
+        "subject": "Re: Hyvityslaskut",
+        "customer": "Hei, voimme kohdistaa nämä myös itse meidän päässä seuraaviin laskuihin, onko tämä ok? Terveisin Ilkka Saukko Ilectric Oy www.ilectric.fi 0405447592 ma 20.4.2026 klo 9.37 SuperLED.fi asiakaspalvelu ( asiakaspalvelu@superled.fi ) kirjoitti: Hei, Ilectric kolme hyvityslaskua avoinna. Kohdistetaanko seuraaville laskuille vai hyvitetäänkö suoraan tilillenne FI39 8118 9710 0297 06? Ystävällisin terveis",
+        "reply": "Hei, Ilectric kolme hyvityslaskua avoinna. Kohdistetaanko seuraaville laskuille vai hyvitetäänkö suoraan tilillenne FI39 8118 9710 0297 06? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-04-20"
+      },
+      {
+        "subject": "Re: Reklamaatio",
+        "customer": "Hei, valaisimet on nyt palautettu. On varmaan jo tullutkin? Mitäs nyt kun niistä on tullut lasku jo sekä muistutuslasku myös. Voitteko tehdä hyvityslaskun laitetuista laskuista? ti 7.4.2026 klo 8.21 Jonne Kela | SuperLED.fi ( jonne.kela@superled.fi ) kirjoitti: Hei! Totta kai. Ohjeet palautukseen löydät tuosta aiemmin lähettämästäni linkistä. Ystävällisin terveisin Jonne 045 352 3705 www.superled.",
+        "reply": "Hei, Onpa ikävä kuulla! Laitetaan uusi tulemaan. Laitetaanko Kiviharju 3 osoitteeseen? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Lähettäjä: Juha Somppi Lähetetty: torstai 29. tammikuuta 2026 6.45 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Reklamaatio Heippa. Liitteenä olevalta tilauksesta yksi seuraava valo ei toimi: Seinävalaisin MODIFI 10W, ylösalas, 900lm, 120x97x100mm, musta. Miten toimitaan? Ystävällisin terveisin Juha Somppi Talotekniikan Mestarit Oy",
+        "date": "2026-04-17"
+      },
+      {
+        "subject": "Re: Päivitetty valaisintarjous",
+        "customer": "Terve pauliina, Aloin asentamaan näitä kate-terassivaloja ja hoksattiinki, että nämä pitäs olla mustat. Eli onnistuisiko palauttaa 2 valoa ja vaihtaa loput 5kpl mustiin? Yhden valon oon aukassu pakkauksesta, en kerinny laittaa sähköihin. Loput aukasemattomia. Ystävällisin terveisin Niko Keränen 0407081929 From: SuperLED.fi asiakaspalvelu Sent: Monday, February 23, 2026 8:53:14 AM To: Niko Keränen ",
+        "reply": "Hei, Oheisesta liitteestä löydät päivitetyn tarjouksemme! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-04-11"
+      }
+    ],
+    "remontti": [
+      {
+        "subject": "Re: Päivitetty valaistussuunnitelma Kirsiaho",
+        "customer": "Moi Soittelin Tomin kanssa ja sovittiin, että jätetään nyt himmentimet pois kuvasta eli asia on kunnossa. Yt. Jouni ******************************* P. 0400679184 https://sahkosuunnittelu.com jcadsuunnittelu@gmail.com ******************************* ke 13.5.2026 klo 13.52 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Meillä aloittanut uusi suunnittelija, eikä ole niitä huomannut merkitä pohjakuvaan. V",
+        "reply": "Hei, Saa ottaa työn alle sähkösuunnitteluun. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "Re: Olokoto Oy, Kiskot ja valot",
+        "customer": "Löytyi sittenkin jonkunnäköinen pohja kun työpari kävi kaivelemassa. Vihreällä on vaihtoehto 1 kiskoille. Sinisellä vaihtoehto 2. Kiskojen mitoitus ei niin kauhean tarkkaa ole. Käyn tässä läpi nuo huoneet ja laitan mitat että minkä kokoista kiskoa mahtuisi. Palaan asiaan pian. ma 8.9.2025 klo 11.49 Karolina Regina ( karolina.regina@olokoto.fi ) kirjoitti: Meillä ei pohjakuvaa tai ainakaan mittatar",
+        "reply": "Hei, Kiitos yhteydenotostasi. Mielellään autetaan! Laitatko pohjapiirroksen, jossa näkyy mitat sekä toiveet niin katsotaan tilaan sopiva kokonaisuus. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Hei Tarvittaisiin meille toimistolle valoja ja kiskoja. Pystyisikö joku auttamaan tilauksen kokoamisessa? Tulisi samaan tilaukseen kaikki mitä tarvitsee. Kiskojen ei tarvitse olla upotettavia tai mitenkään muuten erikoisia. Värinä tarvittaisiin mustaa. -- Ystävällisin Terveisin Karolina Regina +358401938334 Suunnittelija Olokoto Oy",
+        "date": "2025-09-08"
+      },
+      {
+        "subject": "Re: Muuntaja",
+        "customer": "Moikka. Tässä kuvat. Mielummin uusi muuntaja koska toisessa tapauksessa tulee kyllä todella iso remontti. Valaisimia on katossa muuntajineen kolmisen kymmentä. Eikä kyseistä lamppua taideta enään valmistaa.. T. Niko. 25.8.2025 9.04 \"SuperLED.fi asiakaspalvelu\" kirjoitti: Hei, Kiitos viestistä! Suosittelen ensisijaisesti kokonaan uutta valaisinta. Yleensä muuntajat tulee valaisimen mukana ja näihin",
+        "reply": "Hei, Kiitos viestistä! Suosittelen ensisijaisesti kokonaan uutta valaisinta. Yleensä muuntajat tulee valaisimen mukana ja näihin on kovin vaikea löytää vastaavaa, mutta jos voisit laittaa kuvan tästä muuntajasta niin voimme totta kai katsoa löytyisikö valikoimasta sopivaa. Ystävällisin terveisin Jonne 045 352 3705 www.superled.fi Nimesi Niko Nyberg Puhelinnumero 0405586340 Sähköposti niko.nyberg@elisanet.fi Viesti Moi. Minulta hajosi ledi valoista yksi muuntaja ja olisin tiedustellut korvaavaa laitetta tilalle. Muuntaja on winledin joka taitaa olla jo kuopattu. Osaatteko auttaa? T.Niko.",
+        "date": "2025-08-25"
+      },
+      {
+        "subject": "Re: Alasvalot käytävään.",
+        "customer": "Saisinko myös upotettavan mallin, niin tarkistetaan molemmat vielä sähkömieheltä? Meillä on putkiremontti meneillä ja samalla uusitaan kaikki valot. Yt. Sanna Paasonen 14. lokakuuta 2024 13.03.09 GMT+03:00 \"SuperLED.fi asiakaspalvelu\" kirjoitti: Hei! Kiitos yhteydenotostasi. Tässä olisi meidän pienin himmennettävä pinta asennettava alasvalo: https://www.superled.fi/product/2571/5in1-led-paneeli-sl",
+        "reply": "Hei! Kiitos yhteydenotostasi. Tässä olisi meidän pienin himmennettävä pinta asennettava alasvalo: https://www.superled.fi/product/2571/5in1-led-paneeli-slim-12w-1150lm-16522mm Mikäli haluatte tietoa upotettavista alasvaloista, huikkaa minulle asennusreiän koko niin etsitään sinulle yhdessä sopiva! Ystävällisin terveisin Minttu 045-352 3705 www.superled.fi Nimi Sanna Paasonen Sähköposti sanna.paasonen@gmail.com Puhelin 0456778244 Viesti Hei! Löytyisikö teiltä palohälyttimen vastaavat kokoiset himmennettävät led-alasvalot käytävän katolle? Toivottu yhteydenottotapa Sähköposti WhatsApp",
+        "date": "2024-10-14"
+      },
+      {
+        "subject": "VS: MH24993498638, POS6 JÄTTI paneelien muuntajat",
+        "customer": "Moikka Laittakaa tähän antaksentielle, alta osoite Antaksentie 4, 01510 Vantaa Laittakaa paketiin REMONTTIPARTIO OY /RAIVIOSUONRINNE 3 ja Niko Suvanto -NS- Ystävällisin terveisin Niko Suvanto Valaisinprojektimyyjä Myynti | Rexel Finland Oy Antaksentie 4, 01510 Vantaa – Finland, Avoinna klo 6.30-16.00 Tel. +358 (0)10 5093 514 I Tel. +358 (0)50 5093 514 www.rexel.fi Lähettäjä: SuperLED.fi asiakaspal",
+        "reply": "Hei, Huomasin meidän tilausten käsittelyssä tapahtuneen pienen virheen tilaukseenne liittyen. Ostotilauksen MH24993498638, POS6 JÄTTI paneeleissa on 5kpl väärää muuntajaa. Muuntajat ovat on/off mallia, eli eivät ole himmennettävissä. Pahoittelut! Meiltä löytyy täältä oikeat himmennettävät triac- muuntajat. Minne laitetaan ne tulemaan? Ystävällisin terveisin Noora 045-352 3705 www.superled.fi",
+        "date": "2024-09-12"
+      },
+      {
+        "subject": "Valaisimia Ekovillan Kiimingin tehtaalle",
+        "customer": "Tervehdys Liitteenä on kuvakaappaus ostoskorista, jotka valaisimet tarvikkeineen tilaan Ekovillalle Kiiminkiin. Meille on tullut teiltä ennekin tuotteita, mutta en löytänyt tähän hätään tunnuksia. Mutta jos laitatte tulemaan ostoskorin mukaisesti tavarat Kiiminkiin, osoitteeseen: Ekovilla Oy Honkiojantie 14 90900 Kiiminki Merkiksi \" 131101 sosiaalitilojen remontti\" Miten onnistuu? T. Sakke 0401365",
+        "reply": "Tervehdys, Kiitos tilauksesta. Paketti lähtee tänään toimitukseen. Ystävällisin terveisin Jonne 045 352 3705 www.superled.fi Tervehdys Liitteenä on kuvakaappaus ostoskorista, jotka valaisimet tarvikkeineen tilaan Ekovillalle Kiiminkiin. Meille on tullut teiltä ennekin tuotteita, mutta en löytänyt tähän hätään tunnuksia. Mutta jos laitatte tulemaan ostoskorin mukaisesti tavarat Kiiminkiin, osoitteeseen: Ekovilla Oy Honkiojantie 14 90900 Kiiminki Merkiksi \" 131101 sosiaalitilojen remontti\" Miten onnistuu? T. Sakke 0401365200",
+        "date": "2025-05-28"
+      },
+      {
+        "subject": "Re: Tarjouspyyntö sähkösuunnittelusta ja valaistussuunnittelusta",
+        "customer": "Hei Ilkka. Otettiin vähän aikaa tässä ja mietittiin mitä me tarvitaan sähköistykseen ja valaistukseen liittyen jotta saadaan kerralla maaliin. Mietin et sisko olis hyvä olla mukana keskustelussa kun valaistusta suunnitellaan. Voidaanko pitää sellainen kolmikanta puhelinpalaveri? to 23. tammik. 2025 klo 13.23 SuperLED.fi asiakaspalvelu kirjoitti: Hei Kiitokset kuvista ja mukavasta puhelinkeskustelu",
+        "reply": "Soitatko tämän? Ystävällisin terveisin Minttu 045-352 3705 www.superled.fi Lähettäjä: Lallinkuja8 Lähetetty: keskiviikko 22. tammikuuta 2025 16.10 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Tarjouspyyntö sähkösuunnittelusta ja valaistussuunnittelusta Hei MInttu. Liitteessä meidän kohteen pääpiirustukset pdf ja dwg muodossa. Pyytäisin teiltä tarjousta sähkö ja valaistussuunnittelusta. Tuomas Laakso / 040-4828099",
+        "date": "2025-01-30"
+      },
+      {
+        "subject": "Re: 230V WOIMA LED-nauha",
+        "customer": "Hei, Eli vastauksen perusteella nauha voi käyttää valokaappiin siis ulkona. Kummalla parempi kiinnittää valokaapissa kannekkeilla tai profiililla jos on tarkoitus läpäisyä eniten valoa, Montako kannakkeita tarvitaan? Eli valokaappi on 3m pitkä ja 60cm korkea, syvyys 10cm Lähetetty iPhonesta SuperLED.fi asiakaspalvelu kirjoitti 19.5.2026 kello 8.29: ﻿ Hei, Kiitos viestistäsi. Nauhalle erikseen oste",
+        "reply": "Hei, Kiitos viestistäsi. Nauhalle erikseen ostettavissa virtajohto ja pääty. Saatavilla on 2m virtajohto pistokkeella. Eli varsinaista katkaisijaa ei ole mukana vaan virran voi ottaa pistorasiasta. Nauhaa voi ostaa halutun pituisena 1–50 metrin väliltä. Nauhan voi kiinnittää joko kannakkeilla tai ISO-profiiliin. Profiiliin kuuluu valoa läpäisevä kansi, päädyt: umpinainen ja reiällä sekä 4kpl kannakkeita profiilin kiinnittämistä varten. Kokosin tarvikkeet ehdotukseksi ostoskoriin kokonaisuutta ajatellen. Nauhaa voi ostaa halutun pituisena 1–50 metrin väliltä ja sen voi asentaa joko profiiliin t",
+        "date": "2026-05-19"
+      }
+    ],
+    "tukkuri": [
+      {
+        "subject": "RE: VL: Hinnasto",
+        "customer": "Hei, Katsoimme tuon myyntinne ja nyt vaikkakin se on kohtuullisen hyvällä tasolla viimeisen 12kk ajalta ei se valitettavasti anna mahdollisuutta vielä laskea provisio % nykyisestä. Korttiyynti tulisi tavoittaa sellaiset noin 120k€ 12 kuukauden ajalta jotta voisimme tarjota vastaavaa % (ilman kk kulua) kuin olette muualta nyt saaneet. Joten jos nyt päätätte vaihtaa palvelun tarjoajaa niin se on ymm",
+        "reply": "Hei, Meillä ollut käytössä teidän maksupäätepalvelut myymälässämme. Olen vertaillut kokonaisuutta myös vaihtoehtoiseen kassaratkaisuun, jossa hinnat ovat tällä hetkellä meille edullisemmat. Vastatarjouksemme on seuraava: Käyttö ilman kuukausimaksua ja provisio 1,45 % tai Kuukausimaksu 19€/kk + 0,79 % Pystyttekö tarkistamaan hintojanne tämän pohjalta ja kommentoimaan, miltä osin hinnoittelua olisi mahdollista lähestyä? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "Re: Hinnasto",
+        "customer": "Hei, Liitteenä viimeisimmät hinnastomme. Meillä ei eriseen ole listaa poistuneista tuotteista, päivitämme poistoja viikottaisessa saatavuustaulukossa. Jos saat meille teidän tuotteista listauksen exelissä EAN-koodien mukaan, voimme suodattaa niistä poistuneet pois? Ystävällisin terveisin / Kind Regards, Mari Lindholm 📍 Puusepänkaarre 6, Porvoo 📞 +358195340300 ✉️ mail@sessak.fi SuperLED.fi asiakasp",
+        "reply": "Hei, Laitatteko ajantasaisen hinnaston ja poistuneiden tuotteiden listan, kiitos. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-04-28"
+      },
+      {
+        "subject": "RE: VS: Tilaus ja hinnat",
+        "customer": "Hei. Liitteenä hinnasto. yst.terv. Salla Salla-Johanna Happonen asiakaspalvelu@dreamled.fi p. +358 40 1366 212 Dreamled Oy Hankasuontie 9, 2.krs 00390 Helsinki www.dreamled.fi --------------- Alkuperäinen viesti --------------- Lähettäjä: SuperLED.fi asiakaspalvelu [asiakaspalvelu@superled.fi] Lähetetty: 30.3.2026 9.37 Vastaanottaja: asiakaspalvelu@dreamled.fi Aihe: VS: Tilaus ja hinnat Moi, Ei ol",
+        "reply": "Hei, Tilaan 2kpl 4141765 PRO Power Plus alumiini tuotetta. Vahvistatteko. Laitatteko voimassaolevan hinnaston myös tulemaan, kiitos. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-04-23"
+      },
+      {
+        "subject": "Re: Hinnasto",
+        "customer": "Moikka, Liitteenä uusimmat hinnastomme, sekä teidän ostohinnat että suositushinnasto. Valmiiksi valikoimassa ei ole Leonea tai Asheria pidemmällä johdolla. Sähköasentajat voivat toki tehdä muutostöinä johtojen pidennyksiä. Näissä valaisimissa ei mielestäni ole mitään erityistä pidennyksiä ajatellen. Asherin tarkempaa värikoodia minulla ei valitettavasti ole teidossa. Ystävällisin terveisin / Kind ",
+        "reply": "Hei, Saisimmeko uusien tuotteiden hinnaston? Muutama kysymys: Saako Leone 50 tai Asher riippuvalaisimen pidemmällä johdolla tai onko se helposti itse vaihdettavissa? Mikä on Asher beigen sävy tai värikoodi? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2025-10-29"
+      },
+      {
+        "subject": "Re: Asennuspalvelu",
+        "customer": "Hei, Hukkasin johonkin laskun. Lähetätkö uusiksi niin saan maksuun. Yt. Markku ma 8.9.2025 klo 16.32 SuperLED.fi asiakaspalvelu kirjoitti: Hei, Kiinteään hinnastoon kuluu valaisimet, jotka alle 3,5m korkeudessa eli tämän yhden valaisimen asennus täytyisi sopia sähköasentajan kanssa erikseen. Tästä linkistä löydät tarkemmat tiedot asennuspalvelusta: https://www.superled.fi/product/2888 Ystävällisin",
+        "reply": "Hei, Kiinteään hinnastoon kuluu valaisimet, jotka alle 3,5m korkeudessa eli tämän yhden valaisimen asennus täytyisi sopia sähköasentajan kanssa erikseen. Tästä linkistä löydät tarkemmat tiedot asennuspalvelusta: https://www.superled.fi/product/2888 Ystävällisin terveisin Jonne 045 352 3705 www.superled.fi",
+        "date": "2025-09-09"
+      },
+      {
+        "subject": "Tarjouspyyntö",
+        "customer": "Heippa, Soittelin hetki sitten aspaan ja lähetin ostoskorin tarkistettavaksi nettisivujen kautta. Meillä oli kumppanuushinnasto ja pyysin hintatarjousta ostoskoristamme saneerauskohteeseen. Tulihan ostoskori perille? Laitoin vastaanottajaksi aspan meilin. Terveisin, Mikko Walden +358 400 436 738 mikko@johtava.fi Keilaranta 1, 02150 Espoo",
+        "reply": "Hei, Kiitos tarjouspyynnöstä! Tarjous liitteen oikeilla hinnoilla. Ystävällisin terveisin Minttu 045-352 3705 www.superled.fi Lähettäjä: Mikko Walden Lähetetty: perjantai 22. marraskuuta 2024 15.00 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Tarjouspyyntö Heippa, Soittelin hetki sitten aspaan ja lähetin ostoskorin tarkistettavaksi nettisivujen kautta. Meillä oli kumppanuushinnasto ja pyysin hintatarjousta ostoskoristamme saneerauskohteeseen. Tulihan ostoskori perille? Laitoin vastaanottajaksi aspan meilin. Terveisin, Mikko Walden +358 400 436 738 mikko@johtava.fi Keilaranta 1, 02150 Espoo",
+        "date": "2024-11-22"
+      },
+      {
+        "subject": "[ROPO] SD-1941923: hinnasto",
+        "customer": "Hei Noora, ja kiitos viestistäsi. Tarkemman hinnaston osalta suosittelen olemaan yhteydessä Pulse247:ään, sillä palvelumme käyttö laskutetaan teiltä niiden kautta. Oikeudellisessa perinnässä on kuluriski. Jos haluatte viedä saatavanne haasteelle, viranomaiskulut tulevat teidän maksettavaksi. Viranomaiskulut vaaditaan kuitenkin haasteella velallisen maksettavaksi, ja mikäli saamme ne perittyä velal",
+        "reply": "Hei, Mitä maksuja meillä palveluista voimassa? Mitä maksaa oikeudellinen perintä kuluttajilta? Ystävällisin terveisin Noora 045-352 3705 www.superled.fi",
+        "date": "2024-06-07"
+      },
+      {
+        "subject": "RE: Hinnantarkistus",
+        "customer": "Classified Moikka Noora 😊 Koitin hetki sitten tavoitella sinua puhelimitse mutta vastaan täällä! Eli olen nyt tarkistanut teidän hinnoittelut yms. niin tilanne on seuraava -> Teidän hinnasto on ajantasalla tällä hetkellä. Hue Bridge Pron sisäänostohinta on teille noin 59€. Suositeltu jälleenmyyntihinta on 100€. Mitä tulee teidän sopimusalennuksiin niin teillä on 3 % ’’Cash discount’’ jonka saatte ",
+        "reply": "Hei, Haluaisin tarkistaa ostamiemme Hue -tuotteiden tämänhetkisen ostohintamme sekä mahdolliset volyymi- tai sopimusalennukset. Olemme seuranneet markkinahintaa, ja näyttää siltä, että esimerkiksi Hue Bridge Pro tuotetta on saatavilla kuluttajakanavista ja kilpailevilta toimijoilta hinnalla, joka alittaa nykyisen ostohintamme. Haluaisimme varmistaa, että hinnoittelumme on ajan tasalla ja kilpailukykyinen. Voisitteko ystävällisesti tarkistaa tilanteen ja palata ajantasaisella hinnalla sekä tiedolla mahdollisista kampanjoista tai tulevista hinnanmuutoksista? Olisi pikainen tarve 25kpl Philips Hu",
+        "date": "2026-03-03"
+      }
+    ],
+    "lasku": [
+      {
+        "subject": "VS: Myymälän valaistus",
+        "customer": "Moikka, Nämä on nyt palautettu. Saanko uuden laskun toteutuneella määrällä? 🙂 Ystävällisin terveisin , Johanna Bloom By Johanna Kauneuden verkkokauppa www.bloombyjohanna.fi Kauneushoitola Salonki Henrietta Kauneushoitola ja kosmetiikkamyymälä Puh. (03) 4224410 www.salonkihenrietta.fi Jean D'Arcel Kosmetiikkasarja sekä Mesauda Milano Maahantuonti ja koulutus Toimiston osoite: Kartanonkatu 9, 30100 ",
+        "reply": "Hei, Joko valaisimet asennettu myymälään? Saitteko niillä riittävästi kaivattua lisävaloa? 🙂 Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "VS: avoimet laskut",
+        "customer": "Hei, ilmeisesti tarkoitat verkkokaupan näkymää? Meillä näkyy kirjanpidon puolella 4/5 laskua maksettuna. Olemme ottaneet uudet järjestelmät käyttöön vuoden alusta ja vielä on ongelmia näiden synkkauksessa. Pahoittelut tästä! t.Riku Lähettäjä: SuperLED.fi asiakaspalvelu <> Lähetetty: maanantai 4. toukokuuta 2026 11.07 Vastaanottaja: Myynti Aihe: avoimet laskut Hei, Meillä näkyy kirjautuessa kaikki ",
+        "reply": "Hei, Meillä näkyy kirjautuessa kaikki tämän vuoden laskut avoimena. Ne on tulleet verkkolaskuna ja maksettu sitä kautta, vai olenko väärässä? Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-05-04"
+      },
+      {
+        "subject": "VS: Lapelland lasku 12543",
+        "customer": "Hei, Yrityksemme nimi on nykyään muotoa Lapelland Oy. Enää ei ole olemassa yritystä Lapelland Finland Oy. Mietin johtuuko siitä ettei laskua ole tullut perille, mutta näyttäisi että muut teidän laskut kuitenkin on tullut. Laskutustiedossa meillä ei ole ollut muutosta. Laitamme kuitenkin nämä lasku mahdollisimman pian maksuun. Pyydän teitä päivittämään yrityksemme nimen oikein jatkoa varten. Järjes",
+        "reply": "Hei, Lapellandin lasku 12543 näyttää olevan vielä avoinna. Laskulle kohdistettu hyvityslasku 12619, 1 950,48 €. Avoin summa 1764,32 €. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-04-27"
+      },
+      {
+        "subject": "TILAUS VL: Valaisintarjous",
+        "customer": "Hei Kiitämme tarjouksestanne. Tilaamme valaisimia yhteensä 13 kpl. Ilmoitatteko milloin valaisimet noudettavissa. Lasku Tek Kiinteistöt Oylle ja viitteeksi Konetie 20 halli sos.tilat Terveisin Marika Ansamaa Johdon assistentti +358 40 668 2700 marika.ansamaa@maheva.fi – TEK KIINTEISTÖT OY – AS OY TERVASALAMA OY – – KOY OULUN MOREENITIE 15 – VILLA VUOSSELI OY – Lähettäjä: SuperLED.fi asiakaspalvelu",
+        "reply": "Hei, Kiitos yhteydenotostasi. Oheisesta liitteestä löydät tarjouksemme. Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-02-20"
+      },
+      {
+        "subject": "Re: Valaisinmäärät",
+        "customer": "Hei, Otetaan nuo 40kpl. Laskutusosoite: Metsätie 11 as 2 21620 Kuusisto Toimituksen voi laittaa samaan osoitteeseen, mikäli tulee noutopisteeseen. Yt. Ida From: SuperLED.fi asiakaspalvelu Sent: Friday, February 13, 2026 1:00:01 PM To: Ida Laaksonen Subject: VS: Valaisinmäärät Hei, Arkieteisessä saa kyllä olla ennemmin reilummin valoa. Muistaakseni oli puhetta kolmesta valaisimesta sinne. Katokseen",
+        "reply": "Moikka, Oletteko päässeet valaisinmäärien suhteen mihin lopputulokseen? Valitsemasi malli on mielestäni todella hyvä valinta se antaa laadukkaan valon, viimeistellyn ilmeen ja toimii tilassa mittasuhteiltaan hyvin. Mikäli budjetti kuitenkin mietityttää, meiltä löytyy myös edullisempi vaihtoehto, joka täyttää tekniset vaatimukset. Voin halutessasi laskea siitäkin vaihtoehdon vertailun tueksi. Miltä kuulostaa? Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-02-13"
+      },
+      {
+        "subject": "[ROPO] SD-2768671: VS: [ROPO] SD-2696506: VL: Olokoto Oy:n avoimet laskut",
+        "customer": "Hei, Kiitos viestistä. Olemme aiemmin hakeneet käräjäoikeudelta poikkeuksellisesti lykkäystä asialle 31.1.2026 saakka. Nyt vaihtoehtona on joko jatkaa asian käsittelyä normaalisti käräjäoikeudessa, tai perua haastehakemus. Jos haluatte perua haastehakemuksen, pyydämme ystävällisesti ilmoittamaan asiasta. Tällöin teiltä jo laskutetut viranomaiskulut 70,00 euroa jäävät teidän tappioksi ja oikeudenkä",
+        "reply": "Hei, Tiedoksi asiakkaalta tullut viesti. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi Tee sekä aamuista että illoista selkeämpiä, päivitä kylpyhuoneesi valopeilillä https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet Lähettäjä: Eine Mäenpää Lähetetty: perjantai 5. joulukuuta 2025 13.46 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Olokoto Oy:n avoimet laskut Hei, Ohessa tärkeä ja ajankohtainen tiedotteemme koskien avoimia saatavianne. Annamme lisätietoja tarvittaessa. Yst. terv. Eine Mäenpää +358 44 516 7065",
+        "date": "2026-02-10"
+      },
+      {
+        "subject": "Re: Laskutusosoite",
+        "customer": "Verkkolaskuosoite / OVT: 00373588790 8 Verkkolaskuoperaattori: Procountor Välittäjä: Apix • Välittäjätunnus: 003723327487 Ystävällisin terveisin Max Ek 0505435905 Lähetetty iPhonesta SuperLED.fi asiakaspalvelu kirjoitti 30.1.2026 kello 9.26: ﻿ Hei, Kiitokset tilauksesta! Toivottavasti tuotteet saapuivat pikaisesti. Asiakastietoihinne tarvitsemme vielä voimassa olevan verkkolaskuosoitteen ja välitt",
+        "reply": "Hei, Kiitokset tilauksesta! Toivottavasti tuotteet saapuivat pikaisesti. Asiakastietoihinne tarvitsemme vielä voimassa olevan verkkolaskuosoitteen ja välittäjän tunnuksen. Voit ilmoittaa ne vastaamalla tähän viestiin. Ystävällisin terveisin Noora 045 352 3705 www.superled.fi",
+        "date": "2026-01-30"
+      },
+      {
+        "subject": "VS: TUPLA-profiilin kannakkeet",
+        "customer": "Hei, Kyllä on teiltä 2021 ostettu TUPLA alminiiniprofiili laskunumero 96282. Onkohan kiinnikkeet uudistuneet vuosien saatossa? - Pasi Lähettäjä: SuperLED.fi asiakaspalvelu Lähetetty: keskiviikko 28. tammikuuta 2026 9.31 Vastaanottaja: Pasi Vihavainen Aihe: VS: TUPLA-profiilin kannakkeet Hei, Ei ole valitettavasti erillisenä tuotteena myynnissä. Voin selvitellä onko tilattavissa. Oliko kyseessä mei",
+        "reply": "Hei, Ei ole valitettavasti erillisenä tuotteena myynnissä. Voin selvitellä onko tilattavissa. Oliko kyseessä meiltä tilattu profiili? Meidän TUPLA-profiileissa on metalliset kannakkeet, eikä pitäisi murentua. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Nimesi Pasi Vihavainen Puhelinnumero 0449715067 Sähköposti pasi.vihavainen@sahkoasennuskuronen.fi Viesti Saako teidän TUPLA-ledprofiiliin kiinnikkeitä erikseen? Tarve olisi 25kpl, kun vanhat murenevat ja profiili tippuu seinältä",
+        "date": "2026-01-28"
+      }
+    ],
+    "muu": [
+      {
+        "subject": "Re: Led-nauhatarjous",
+        "customer": "Hei, Joo tehdään erillinen tarjous luettelon mukaisista tarvikkeista. Saunan profiilit mustana, mutta kannet saavat olla vaaleat. Ystävällisin terveisin Pasi Immonen ti 19.5.2026 klo 9.04 SuperLED.fi asiakaspalvelu ( asiakaspalvelu@superled.fi ) kirjoitti: Hei, Tarkoitatko, että tehdään kokonaan erillinen tarjous näistä tämän luettelon mukaan? Aiemmalla tarjouksella saunan nauhoille olikin triac-m",
+        "reply": "Hei, Kiitos yhteydenotostasi! Oheisesta liitteestä löydät tarjouksemme. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "Re: VS: Led nauhoja",
+        "customer": "Huomenta Onkohan tämä tilaus noudettavissa? T:Jukka Viitasaari/Sähkö-Arktia Oy SuperLED.fi asiakaspalvelu kirjoitti 2026-05-13 08:41: > Hei, > > Kiitos tilauksesta. > > Sait tilausvahvistuksen erillisellä viestillä. Saat pian myös > ilmoituksen, kun tilaus pakattu ja noudettavissa! > > Ystävällisin terveisin > > Pauliina > 045 352 3705 > www.superled.fi [1] > > Valopeileihin päivitetty hinnat, tut",
+        "reply": "Hei, Kiitos tilauksesta. Sait tilausvahvistuksen erillisellä viestillä. Saat pian myös ilmoituksen, kun tilaus pakattu ja noudettavissa! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet Lähettäjä: jukka.viitasaari@sahko-arktia.fi Lähetetty: Tiistai 12. toukokuuta 2026 17.29 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Led nauhoja Morjens Liitteen mukaiset kamppeet voitaisiin hakea huomenna. Merkki: varasto T:Jukka Viitasaari/Sähkö-Arktia Oy",
+        "date": "2026-05-19"
+      },
+      {
+        "subject": "VL: Nauha",
+        "customer": "Moro, Liitteessä tilaus. Marko Marko Vesterinen Avainasiakaspäällikkö Talotekniikka sähkö Gsm 050 3475512 marko.vesterinen@onninen.com Onninen Oy Käyntiosoite: Jääsalontie 17, 90400 Oulu www.onninen.fi Lähettäjä: SuperLED.fi asiakaspalvelu Lähetetty: torstai 7. toukokuuta 2026 10.37 Vastaanottaja: Vesterinen Marko Aihe: VS: Nauha Hei, Kiitos tarjouspyynnöstä! Tarjous liitteenä. Tämä määrä saatavil",
+        "reply": "Hei, Kiitos tarjouspyynnöstä! Tarjous liitteenä. Tämä määrä saatavilla ja heti toimitettavissa tällä hetkellä. Laitetaanko varaukseen? Toimituskulut: 10,90 €, alv 0%. Ystävällisin terveisin Pauliina 045-352 3705 www.superled.fi Lähettäjä: Vesterinen Marko Lähetetty: keskiviikko 6. toukokuuta 2026 16.04 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Nauha Moro, Miten hinta ja saatavuus? Marko Marko Vesterinen Avainasiakaspäällikkö Talotekniikka sähkö Gsm 050 3475512 marko.vesterinen@onninen.com Onninen Oy Käyntiosoite: Jääsalontie 17, 90400 Oulu www.onninen.fi",
+        "date": "2026-05-18"
+      },
+      {
+        "subject": "Tilauksen nouto aukioloajan ulkopuolella",
+        "customer": "Hei, Pääsisin hakemaan tilaamani tuotteet Kempeleen toimipisteeltänne töiden jälkeen n klo 17-18 välissä. Oliko teiltä mahdollista saada ovikoodia aukioloaikojen ulkopuolista noutoa varten? Yt. Timo Luhtaniemi",
+        "reply": "Hei, Noutokoodisi on 2990. Vasemmanpuoleinen avainboksi \"NOUTO\" ovella. Voit noutaa tilauksesi mihin aikaan vain osoitteessa Pulkkisentie 23, Kempele. Ystävällisin terveisin Reetta 045-352 3705 www.superled.fi Lähettäjä: Timo L Lähetetty: perjantai 15. toukokuuta 2026 0.08 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: Tilauksen nouto aukioloajan ulkopuolella Hei, Pääsisin hakemaan tilaamani tuotteet Kempeleen toimipisteeltänne töiden jälkeen n klo 17-18 välissä. Oliko teiltä mahdollista saada ovikoodia aukioloaikojen ulkopuolista noutoa varten? Yt. Timo Luhtaniemi",
+        "date": "2026-05-14"
+      },
+      {
+        "subject": "Re: Päivitetty valaistussuunnitelma Kirsiaho",
+        "customer": "Moi Tomille vissiin tulossa himmennyksiä, mutta en löydä niitä himmennettäviä valoja tästä päivitetystä valosuunnitelmasta. Saatko lähetettyä minulle kuvan missä ne näkyy? Yt. Jouni ******************************* P. 0400679184 https://sahkosuunnittelu.com jcadsuunnittelu@gmail.com ******************************* ma 4.5.2026 klo 10.42 Sähkösuunnittelu toimisto kirjoitti: Hei Laitetaan tämä työn al",
+        "reply": "Hei, Saa ottaa työn alle sähkösuunnitteluun. Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "Re: 13090",
+        "customer": "👍 Eino Lindqvist reagoi Gmailin kautta",
+        "reply": "Hei, Siirsin laskun eräpäivää pari viikkoa eteenpäin eli 26.5. Ystävällisin terveisin Reetta 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet Lähettäjä: Eino Lindqvist Lähetetty: tiistai 12. toukokuuta 2026 10.00 Vastaanottaja: SuperLED.fi asiakaspalvelu Aihe: 13090 Moikka! Olisiko mahdollista saada maksuaiaka pari viikkoa lisää ? Kiitos :) -- - Eino 0500783701",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "RE: Tuotekuvia SuperLEDille",
+        "customer": "Hei, Valitettavasti meillä ei ole muita kuvia kuin nuo piirroskuvat. Kind regards, Patrik Johansson Sales & Marketing Mobile: +358401947123 Email: patrik.johansson@lival.com IMPORTANT INFORMATION! PLEASE SEND ALWAYS ALL YOUR E-MAILS FOR LIVAL/NORDIC ALUMINIUM TO FOLLOWING 3 E-MAIL ADDRESSES: eva.teckenberg@lival.com elisabet.henriksson-tekoniemi@lival.com patrik.johansson@lival.com THANKS FOR YOUR",
+        "reply": "Hei, Löytyykö teiltä valmiita tuotekuvia seuraavista tuotteista: Taipuisa jatkos XTS23-2 ja XTS23-3 Seinäkannake SKB21-1 Kannake SKB12-2 ja SKB12-3 Sukoadapteri XTSA67S-2 ja XTSA67S-3 Meillä näistä vain piirroskuvat olemassa ja olisi kiva saada paremmat kuvat. Ystävällisin terveisin Reetta 045 352 3705 www.superled.fi",
+        "date": "2026-05-13"
+      },
+      {
+        "subject": "VS: Led-nauhatarjous",
+        "customer": "Kiitos! Työtilavalojen osalta kysymys vielä upotetusta nauhasta. Kuinka tämä Hietasaaren veiston aamiaiskaapin upotus on toteutettu? Kuvassa ei näy tuon upotettavan profiilin reunoja. https://www.superled.fi/category/366/hietasaaren-veisto---asuntomessut-2025 Yt. Ida Lähettäjä: SuperLED.fi asiakaspalvelu Lähetetty: maanantai 11. toukokuuta 2026 13.18 Vastaanottaja: Ida Laaksonen Aihe: VS: Led-nauh",
+        "reply": "Hei, Kiitos yhteydenotostasi! Oheisesta liitteestä löydät tarjouksemme. Miltä tämä kokonaisuus sinusta vaikuttaa? Nämä kaikki tuotteet löytyvät varastosta ja on valmiita pakattavaksi. Voit tilata tuotteet vastaamalla tähän viestiin yhteystiedoillasi. Tai, jos on kysyttävää niin autan mielelläni! Ystävällisin terveisin Pauliina 045 352 3705 www.superled.fi Valopeileihin päivitetty hinnat, tutustu tarjouksiin! https://www.superled.fi/category/44/valopeilit-ja-peilivalaisimet",
+        "date": "2026-05-11"
+      }
+    ]
+  }
+}
